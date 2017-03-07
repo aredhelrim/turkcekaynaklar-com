@@ -37,6 +37,12 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [SQL](#sql)
 - [Swift](#swift)
 - [Vue.js](#vuejs)
+- [CodeIgniter](#codeigniter)
+- [ASP.NET](#aspnet)
+- [JQuery](#jquery)
+- [SQL](#sql)
+- [CSS](#css)
+- [HTML](#html)
 - Diğer Kaynaklar
   - [Faydalı Linkler](#faydalı-linkler)
   - [Podcast Yayınları](#podcast-yayınları)
@@ -189,6 +195,25 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Nedir Bu Vuejs](https://www.youtube.com/playlist?list=PLhLbfczNPVOKsDy-qb22aO-WxZUijmwTR) - Omer Şensoy
 - [Vue.js ile Uygulama Geliştirme](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) - [Oğuzhan Aslan](https://twitter.com/oguzhanaslan)
 
+### CodeIgniter
+- :movie_camera: [CodeIgniter Eğitim Serisi](https://www.youtube.com/watch?v=mkTNMzrN97I&list=PL_f2F0Oyaj4_xGyQlwgsd9gI1UgnTTHkC) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+- :movie_camera: [CodeIgniter Otel Rezervasyon Uygulaması](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49nS8eZW1qQie6Zr4yRqDMF) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+- :movie_camera: [CodeIgniter Malzeme Uygulaması](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4_-tbmkqsQy3g0IGLSsxj5I) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+
+### ASP.NET
+- :movie_camera: [ASP.NET ile Basit Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+
+### JQuery
+- :movie_camera: [JQuery Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Jt6F-dyl6LEHNVaudH3rk) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+
+### SQL
+- :movie_camera: [SQL Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-6vvPSJssG4Jp6UqCTmWSz) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+
+### CSS
+- :movie_camera: [CSS Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-RyFL8mkfjYjEVCmJhWDQ3) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
+
+### HTML
+- :movie_camera: [HTML Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-Qro_C0ixzMWpCiogfXxKE) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 
 ## Diğer Kaynaklar
 
