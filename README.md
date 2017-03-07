@@ -49,7 +49,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [YouTube Kanalları](#youtube-kanalları)
 
 
----
+-----
 
 
 ### Android
